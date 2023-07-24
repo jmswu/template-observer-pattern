@@ -1,2 +1,6 @@
 # template-observer-pattern
-using template to generate compile time observer pattern
+to build
+```console
+mkdir build
+cmake .. && make && ./test
+```

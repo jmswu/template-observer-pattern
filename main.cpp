@@ -34,7 +34,6 @@ int adder(Ts... ts)
 
 int main()
 {
-
     using subject1 = subject<display, log>;
 
     subject1::update(42);
